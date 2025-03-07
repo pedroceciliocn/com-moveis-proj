@@ -1,1 +1,7 @@
 comoveis/
+venv/
+env/
+*.venv/
+**/venv/
+**/env/
+
