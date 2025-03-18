@@ -4,4 +4,4 @@ env/
 *.venv/
 **/venv/
 **/env/
-
+.ipynb_checkpoints/
