@@ -40,8 +40,8 @@ Cada método foi testado tanto com a base de dados original quanto com a base am
 - Notebooks:
   - `fingerprint-method.ipynb`  
     Implementação do método de fingerprinting utilizando kNN.
-  - `RandomFlorest_Final.ipynb` e `RandomFlorest_Final_dados_sinteticos.ipynb`  
-    Implementação e avaliação do modelo Random Florest.
+  - `RandomForest_Final.ipynb` e `RandomForest_Final_dados_sinteticos.ipynb`  
+    Implementação e avaliação do modelo Random Forest.
   - `XGBoostComMovNatural.ipynb`  
     Implementação e ajuste do modelo XGBoost.
   - `GANComMov.ipynb`  
