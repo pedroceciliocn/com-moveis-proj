@@ -8,6 +8,7 @@ attrs==25.1.0
 babel==2.17.0
 beautifulsoup4==4.13.3
 bleach==6.2.0
+branca==0.8.1
 certifi==2025.1.31
 cffi==1.17.1
 charset-normalizer==3.4.1
@@ -20,6 +21,7 @@ defusedxml==0.7.1
 executing==2.2.0
 fastjsonschema==2.21.1
 filelock==3.17.0
+folium==0.19.5
 fonttools==4.56.0
 fqdn==1.5.1
 fsspec==2025.3.0
@@ -132,3 +134,4 @@ webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
 xgboost==2.1.4
+xyzservices==2025.1.0
