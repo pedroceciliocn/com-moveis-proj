@@ -68,3 +68,7 @@ Cada método foi testado tanto com a base de dados original quanto com a base am
    ```bash
    pip install -r requirements.txt
    ```
+3. Execução:
+   ```bash
+   jupyter notebook
+   ```
